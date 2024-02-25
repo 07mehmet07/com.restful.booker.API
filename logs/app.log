@@ -1,0 +1,232 @@
+19-02-2024 11:44:59.539 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 11:44:59.837 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 11:44:59.837 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+19-02-2024 11:45:02.114 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+19-02-2024 11:45:02.114 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 12:02:53.229 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 12:02:53.460 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 12:02:53.466 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: 
+19-02-2024 12:02:55.306 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: 
+19-02-2024 12:02:55.327 [main] ERROR stepDefinitions.hook.Hooks - {
+    "reason": "Bad credentials"
+}
+19-02-2024 12:02:55.327 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: 
+19-02-2024 12:02:55.327 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 12:04:57.155 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 12:04:57.382 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 12:04:57.382 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: 
+19-02-2024 12:04:59.222 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: 
+19-02-2024 12:04:59.243 [main] ERROR stepDefinitions.hook.Hooks - {
+    "reason": "Bad credentials"
+}
+19-02-2024 12:04:59.243 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: 
+19-02-2024 12:04:59.243 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 14:15:40.196 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 14:15:40.594 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 14:15:40.596 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: 
+19-02-2024 14:15:43.244 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: 
+19-02-2024 14:15:43.244 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 14:19:57.278 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 14:19:57.597 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 14:19:57.597 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: 
+19-02-2024 14:19:59.928 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: 
+19-02-2024 14:19:59.974 [main] ERROR stepDefinitions.hook.Hooks - {
+    "reason": "Bad credentials"
+}
+19-02-2024 14:19:59.975 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: 
+19-02-2024 14:19:59.976 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 14:20:12.915 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 14:20:13.253 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 14:20:13.254 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+19-02-2024 14:20:15.189 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Successfully create an auth token
+19-02-2024 14:20:15.229 [main] ERROR stepDefinitions.hook.Hooks - {
+    "token": "3303d9c9abe87f1"
+}
+19-02-2024 14:20:15.230 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+19-02-2024 14:20:15.230 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 14:21:43.650 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 14:21:43.945 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 14:21:43.945 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+19-02-2024 14:21:47.262 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+19-02-2024 14:21:47.262 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 14:21:52.776 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 14:21:53.085 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 14:21:53.086 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: 
+19-02-2024 14:21:54.922 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: 
+19-02-2024 14:21:54.958 [main] ERROR stepDefinitions.hook.Hooks - {
+    "reason": "Bad credentials"
+}
+19-02-2024 14:21:54.958 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: 
+19-02-2024 14:21:54.958 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 18:35:43.024 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 18:35:43.415 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 18:35:43.415 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Retrieve booking details with a valid ID
+19-02-2024 18:35:45.324 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! But no response was set in the TestContext.
+19-02-2024 18:35:45.325 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Retrieve booking details with a valid ID
+19-02-2024 18:35:45.325 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 18:55:55.567 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 18:55:55.832 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 18:55:55.832 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Retrieve booking details with a valid ID
+19-02-2024 18:55:57.321 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! But no response was set in the TestContext.
+19-02-2024 18:55:57.321 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Retrieve booking details with a valid ID
+19-02-2024 18:55:57.321 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 20:45:38.241 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 20:45:38.541 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 20:45:38.541 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: 
+19-02-2024 20:45:40.606 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: 
+19-02-2024 20:45:40.606 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 20:46:23.684 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 20:46:23.990 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 20:46:23.991 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: 
+19-02-2024 20:46:25.923 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: 
+19-02-2024 20:46:25.923 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 20:48:45.063 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 20:48:45.367 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 20:48:45.367 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: 
+19-02-2024 20:48:47.391 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: 
+19-02-2024 20:48:47.392 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 14:33:22.490 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 14:33:22.857 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 14:33:22.857 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+20-02-2024 14:33:23.158 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! But no response was set in the TestContext.
+20-02-2024 14:33:23.158 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+20-02-2024 14:33:23.158 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 14:39:57.198 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 14:39:57.505 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 14:39:57.506 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+20-02-2024 14:39:57.770 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! But no response was set in the TestContext.
+20-02-2024 14:39:57.771 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+20-02-2024 14:39:57.771 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 14:41:33.029 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 14:41:33.333 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 14:41:33.335 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+20-02-2024 14:41:33.877 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! But no response was set in the TestContext.
+20-02-2024 14:41:33.878 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+20-02-2024 14:41:33.878 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 14:44:01.257 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 14:44:01.559 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 14:44:01.560 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+20-02-2024 14:44:04.351 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Create a new booking with valid details
+20-02-2024 14:44:04.376 [main] ERROR stepDefinitions.hook.Hooks - {
+    "bookingid": 1543,
+    "booking": {
+        "firstname": "mehmet",
+        "lastname": "aykut",
+        "totalprice": 500,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2023-01-01",
+            "checkout": "2024-01-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
+20-02-2024 14:44:04.377 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+20-02-2024 14:44:04.377 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 14:47:41.449 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 14:47:41.746 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 14:47:41.746 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+20-02-2024 14:47:44.552 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Create a new booking with valid details
+20-02-2024 14:47:44.581 [main] ERROR stepDefinitions.hook.Hooks - {
+    "bookingid": 3430,
+    "booking": {
+        "firstname": "mehmet",
+        "lastname": "aykut",
+        "totalprice": 500,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2023-01-01",
+            "checkout": "2024-01-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
+20-02-2024 14:47:44.582 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+20-02-2024 14:47:44.582 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 14:50:07.146 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 14:50:07.468 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 14:50:07.469 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+20-02-2024 14:50:10.228 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Create a new booking with valid details
+20-02-2024 14:50:10.256 [main] ERROR stepDefinitions.hook.Hooks - {
+    "bookingid": 4723,
+    "booking": {
+        "firstname": "mehmet",
+        "lastname": "aykut",
+        "totalprice": 500,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2023-01-01",
+            "checkout": "2024-01-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
+20-02-2024 14:50:10.257 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+20-02-2024 14:50:10.258 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 14:53:28.284 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 14:53:28.590 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 14:53:28.590 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+20-02-2024 14:53:31.163 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Create a new booking with valid details
+20-02-2024 14:53:31.190 [main] ERROR stepDefinitions.hook.Hooks - {
+    "bookingid": 1504,
+    "booking": {
+        "firstname": "mehmet",
+        "lastname": "aykut",
+        "totalprice": 500,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2023-01-01",
+            "checkout": "2024-01-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
+20-02-2024 14:53:31.191 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+20-02-2024 14:53:31.191 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 15:13:58.917 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 15:13:59.195 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 15:13:59.196 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+20-02-2024 15:14:02.306 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+20-02-2024 15:14:02.306 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 15:39:43.413 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 15:39:43.708 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 15:39:43.709 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+20-02-2024 15:39:47.188 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Create a new booking with valid details
+20-02-2024 15:39:47.207 [main] ERROR stepDefinitions.hook.Hooks - {
+    "bookingid": 4169,
+    "booking": {
+        "firstname": "mehmet",
+        "lastname": "aykut",
+        "totalprice": 500,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2023-01-01",
+            "checkout": "2024-01-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
+20-02-2024 15:39:47.207 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+20-02-2024 15:39:47.209 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 15:43:22.917 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 15:43:23.205 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 15:43:23.206 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+20-02-2024 15:43:26.453 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+20-02-2024 15:43:26.453 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 15:48:20.486 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 15:48:20.784 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 15:48:20.784 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Retrieve booking details with a valid ID
+20-02-2024 15:48:23.024 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Retrieve booking details with a valid ID
+20-02-2024 15:48:23.051 [main] ERROR stepDefinitions.hook.Hooks - {
+    "firstname": "Sally",
+    "lastname": "Ericsson",
+    "totalprice": 646,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2017-03-20",
+        "checkout": "2019-06-10"
+    },
+    "additionalneeds": "Breakfast"
+}
+20-02-2024 15:48:23.052 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Retrieve booking details with a valid ID
+20-02-2024 15:48:23.052 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::

@@ -1,33 +1,34 @@
+package stepDefinitions;
+
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.And;
-import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
 import org.assertj.core.api.Assertions;
 import org.assertj.core.api.SoftAssertions;
 import pojo.request.Bookingdates;
 import pojo.request.CreateBookingDetails;
 import pojo.response.CreateBookingResponse;
-import stepDefinitions.BaseStep;
 
 import java.util.Map;
 
 import static io.restassured.RestAssured.given;
 import static org.assertj.core.api.BDDAssertions.then;
 
-public class CreateBooking2 extends BaseStep {
+public class CreateBooking extends BaseStep {
     Map<String,String> mapRequest;
     Bookingdates bookingdates;
-    CreateBookingDetails createBookingDetails;
+    CreateBookingDetails createBookingDetails = new CreateBookingDetails();
 
     ObjectMapper objectMapper = new ObjectMapper();
 
     @When("the user send POST request to the endpoint with following details")
     public void theUserSendPOSTRequestToTheEndpointWithFollowingDetails(DataTable dataTable) throws JsonProcessingException {
         mapRequest = dataTable.asMap(String.class,String.class);
-        bookingdates.setCheckin(mapRequest.get("checkin"));
-        bookingdates.setCheckout(mapRequest.get("checkout"));
+        bookingdates =new Bookingdates(mapRequest.get("checkin"), mapRequest.get("checkout"));
+//        bookingdates.setCheckin(mapRequest.get("checkin"));
+//        bookingdates.setCheckout(mapRequest.get("checkout"));
         createBookingDetails.setFirstname(mapRequest.get("firstname"));
         createBookingDetails.setLastname(mapRequest.get("lastname"));
         createBookingDetails.setTotalprice(Integer.parseInt(mapRequest.get("totalprice")));
@@ -49,6 +50,15 @@ public class CreateBooking2 extends BaseStep {
     public void theBookingObjectInResponseShouldMatchWithGivenDatas() {
         SoftAssertions softAssertions = new SoftAssertions();
         CreateBookingResponse createBookingResponse = response.as(CreateBookingResponse.class);
-        softAssertions.assertThat(createBookingResponse.getFirstname()).isEqualTo()
+
+        softAssertions.assertThat(createBookingResponse.getBooking().getFirstname()).isEqualTo(createBookingDetails.getFirstname());
+        softAssertions.assertThat(createBookingResponse.getBooking().getLastname()).isEqualTo(createBookingDetails.getLastname());
+        softAssertions.assertThat(createBookingResponse.getBooking().getTotalprice()).isEqualTo(createBookingDetails.getTotalprice());
+        softAssertions.assertThat(createBookingResponse.getBooking().isDepositpaid()).isEqualTo(createBookingDetails.isDepositpaid());
+        softAssertions.assertThat(createBookingResponse.getBooking().getBookingdates().getCheckin()).isEqualTo(createBookingDetails.getBookingdates().getCheckin());
+        softAssertions.assertThat(createBookingResponse.getBooking().getBookingdates().getCheckout()).isEqualTo(createBookingDetails.getBookingdates().getCheckout());
+        softAssertions.assertThat(createBookingResponse.getBooking().getAdditionalneeds()).isEqualTo(createBookingDetails.getAdditionalneeds());
+        softAssertions.assertAll();
+
     }
 }

@@ -18,6 +18,7 @@ public class GetAllBookingIds extends BaseStep{
     @Given("The user in the base URI")
     public void theUserInTheBaseURI() {
         request = given();
+        System.out.println(token);
     }
     @When("the user send GET request to get all bookings endpoint")
     public void theUserSendGETRequestToGetAllBookingsEndpoint() {

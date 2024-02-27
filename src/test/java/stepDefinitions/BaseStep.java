@@ -20,6 +20,7 @@ public abstract class BaseStep {
     protected String updateBooking;
 
     protected String deleteBooking;
+    protected String token;
 
     public BaseStep() {
         this.authEndpoint = ConfigManager.getProperty("Api.Register.Endpoint");
@@ -29,5 +30,6 @@ public abstract class BaseStep {
         this.createBooking = ConfigManager.getProperty("Api.stepDefinitions.CreateBooking.Endpoint");
         this.updateBooking = ConfigManager.getProperty("Api.UpdateBooking.Endpoint");
         this.deleteBooking = ConfigManager.getProperty("Api.DeleteBooking.Endpoint");
+        this.token=ConfigManager.getProperty("token");
     }
 }

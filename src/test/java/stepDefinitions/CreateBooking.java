@@ -10,6 +10,7 @@ import org.assertj.core.api.SoftAssertions;
 import pojo.request.Bookingdates;
 import pojo.request.CreateBookingDetails;
 import pojo.response.CreateBookingResponse;
+import utils.TestDataWriter;
 
 import java.util.Map;
 
@@ -37,11 +38,13 @@ public class CreateBooking extends BaseStep {
         createBookingDetails.setBookingdates(bookingdates);
         String jsonBookingDetails = objectMapper.writeValueAsString(createBookingDetails);
         response = request.contentType(" application/json").body(jsonBookingDetails).post(createBooking);
+
     }
 
     @And("The booking id should not be empty or null")
     public void theBookingIdShouldNotBeEmptyOrNull() {
         int id = response.jsonPath().getInt("bookingid");
+        System.out.println(id);
         Assertions.assertThat(id).isNotNull();
         Assertions.assertThat(id).isNotZero();
     }

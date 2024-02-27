@@ -25,6 +25,7 @@ public class UserLogin extends BaseStep{
     @When("The user send POST request to the login endpoint")
     public void theUserSendRequestToTheLoginEndpoint() {
         response = request.when().post(authEndpoint);
+        System.out.println(response.jsonPath().getString("token"));
     }
 
     @Then("The user should see status code as {int}")

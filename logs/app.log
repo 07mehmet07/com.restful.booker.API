@@ -230,3 +230,400 @@
 }
 20-02-2024 15:48:23.052 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Retrieve booking details with a valid ID
 20-02-2024 15:48:23.052 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 02:54:27.561 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 02:54:28.372 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 02:54:28.373 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 02:54:28.734 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! But no response was set in the TestContext.
+26-02-2024 02:54:28.735 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 02:54:28.737 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 02:57:07.385 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 02:57:08.085 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 02:57:08.086 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 02:57:08.367 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! But no response was set in the TestContext.
+26-02-2024 02:57:08.368 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 02:57:08.369 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 02:58:11.189 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 02:58:11.888 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 02:58:11.889 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 02:58:12.288 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! But no response was set in the TestContext.
+26-02-2024 02:58:12.290 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 02:58:12.291 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 02:59:33.320 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 02:59:34.038 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 02:59:34.039 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 02:59:34.323 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! But no response was set in the TestContext.
+26-02-2024 02:59:34.324 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 02:59:34.325 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 03:07:11.225 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 03:07:11.955 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 03:07:11.955 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 03:07:12.240 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! But no response was set in the TestContext.
+26-02-2024 03:07:12.241 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 03:07:12.241 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 03:09:05.309 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 03:09:06.063 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 03:09:06.065 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 03:09:10.145 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 03:09:10.190 [main] ERROR stepDefinitions.hook.Hooks - {
+    "firstname": "Taha",
+    "lastname": "furkan",
+    "totalprice": 400,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2023-01-01",
+        "checkout": "2024-01-01"
+    },
+    "additionalneeds": "Breakfast"
+}
+26-02-2024 03:09:10.191 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 03:09:10.191 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 03:24:21.455 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 03:24:22.207 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 03:24:22.208 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 03:24:25.520 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 03:24:25.561 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+26-02-2024 03:24:25.563 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 03:24:25.564 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 03:26:22.450 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 03:26:23.126 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 03:26:23.127 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 03:26:26.258 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 03:26:26.322 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+26-02-2024 03:26:26.323 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 03:26:26.324 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 03:32:15.039 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 03:32:15.713 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 03:32:15.714 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 03:32:18.771 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 03:32:18.824 [main] ERROR stepDefinitions.hook.Hooks - Method Not Allowed
+26-02-2024 03:32:18.825 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 03:32:18.825 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 03:39:04.316 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 03:39:05.039 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 03:39:05.039 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 03:39:08.245 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 03:39:08.350 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+26-02-2024 03:39:08.350 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 03:39:08.350 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 17:46:20.699 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 17:46:23.745 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 17:46:23.749 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 17:46:37.106 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 17:46:37.353 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+26-02-2024 17:46:37.355 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 17:46:37.357 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 17:49:04.966 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 17:49:07.546 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 17:49:07.548 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 17:49:19.785 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 17:49:19.974 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+26-02-2024 17:49:19.976 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 17:49:19.977 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 18:38:21.035 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 18:38:23.253 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 18:38:23.255 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 18:38:34.147 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 18:38:34.398 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+26-02-2024 18:38:34.401 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 18:38:34.402 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 18:41:15.100 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 18:41:17.190 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 18:41:17.192 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 18:41:25.296 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 18:41:25.466 [main] ERROR stepDefinitions.hook.Hooks - Method Not Allowed
+26-02-2024 18:41:25.468 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 18:41:25.469 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 18:51:04.082 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 18:51:07.021 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 18:51:07.026 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 18:51:18.621 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 18:51:18.853 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+26-02-2024 18:51:18.854 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 18:51:18.855 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 18:52:18.810 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 18:52:21.236 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 18:52:21.239 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 18:52:32.804 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 18:52:33.277 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+26-02-2024 18:52:33.280 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 18:52:33.281 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 20:07:36.569 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 20:07:39.309 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 20:07:39.312 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 20:07:53.181 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 20:07:53.339 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+26-02-2024 20:07:53.340 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 20:07:53.342 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 20:10:13.113 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 20:10:16.620 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 20:10:16.622 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 20:13:30.918 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 20:13:33.275 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 20:13:33.278 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+26-02-2024 20:13:51.694 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+26-02-2024 20:13:51.697 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 20:16:01.666 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 20:16:04.118 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 20:16:04.120 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+26-02-2024 20:16:21.256 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+26-02-2024 20:16:21.259 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 20:17:24.922 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 20:17:27.455 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 20:17:27.458 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 20:17:47.636 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 20:17:48.073 [main] ERROR stepDefinitions.hook.Hooks - {
+    "firstname": "Taha",
+    "lastname": "furkan",
+    "totalprice": 400,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2023-01-01",
+        "checkout": "2024-01-01"
+    },
+    "additionalneeds": "Breakfast"
+}
+26-02-2024 20:17:48.074 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 20:17:48.076 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 20:19:59.441 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 20:20:02.261 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 20:20:02.264 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 20:20:15.283 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 20:20:15.439 [main] ERROR stepDefinitions.hook.Hooks - Method Not Allowed
+26-02-2024 20:20:15.442 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 20:20:15.443 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 20:21:35.486 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 20:21:37.853 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 20:21:37.855 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+26-02-2024 20:21:56.400 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+26-02-2024 20:21:56.410 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 20:22:52.467 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 20:22:54.977 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 20:22:54.979 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+26-02-2024 20:23:07.448 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+26-02-2024 20:23:07.857 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+26-02-2024 20:23:07.858 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+26-02-2024 20:23:07.861 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 01:36:40.220 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 01:36:43.314 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 01:36:43.317 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+27-02-2024 01:36:58.132 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+27-02-2024 01:36:58.309 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+27-02-2024 01:36:58.310 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+27-02-2024 01:36:58.313 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 01:37:48.707 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 01:37:51.264 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 01:37:51.265 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+27-02-2024 01:38:03.095 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+27-02-2024 01:38:03.250 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+27-02-2024 01:38:03.252 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+27-02-2024 01:38:03.254 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 01:39:08.899 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 01:39:11.438 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 01:39:11.440 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+27-02-2024 01:39:32.343 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+27-02-2024 01:39:32.345 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 01:40:22.928 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 01:40:25.520 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 01:40:25.526 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+27-02-2024 01:40:44.090 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+27-02-2024 01:40:44.096 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 01:41:55.067 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 01:41:58.249 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 01:41:58.252 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+27-02-2024 01:42:15.966 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+27-02-2024 01:42:15.968 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 01:43:51.098 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 01:43:53.762 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 01:43:53.763 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+27-02-2024 01:44:06.009 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+27-02-2024 01:44:06.147 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+27-02-2024 01:44:06.148 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+27-02-2024 01:44:06.149 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 01:54:49.160 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 01:54:52.171 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 01:54:52.174 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+27-02-2024 01:55:06.056 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+27-02-2024 01:55:06.344 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+27-02-2024 01:55:06.354 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+27-02-2024 01:55:06.363 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 01:57:04.482 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 01:57:06.727 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 01:57:06.730 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+27-02-2024 01:57:23.356 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+27-02-2024 01:57:23.357 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 01:58:35.487 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 01:58:38.650 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 01:58:38.652 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+27-02-2024 02:01:54.945 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 02:01:58.006 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 02:01:58.009 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+27-02-2024 02:02:45.115 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 02:02:47.716 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 02:02:47.718 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+27-02-2024 02:03:00.303 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+27-02-2024 02:03:00.580 [main] ERROR stepDefinitions.hook.Hooks - Method Not Allowed
+27-02-2024 02:03:00.582 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+27-02-2024 02:03:00.583 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 02:07:13.091 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 02:07:15.624 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 02:07:15.626 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+27-02-2024 02:07:28.267 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+27-02-2024 02:07:28.542 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+27-02-2024 02:07:28.544 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+27-02-2024 02:07:28.548 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 02:28:43.606 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 02:28:45.720 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 02:28:45.722 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+27-02-2024 02:28:58.371 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+27-02-2024 02:28:58.374 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 02:29:50.492 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 02:29:52.768 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 02:29:52.771 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+27-02-2024 02:30:14.342 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+27-02-2024 02:30:14.343 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 02:31:36.765 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 02:31:38.955 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 02:31:38.957 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+27-02-2024 02:31:58.950 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+27-02-2024 02:31:58.952 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 02:33:00.208 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 02:33:02.354 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 02:33:02.357 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+27-02-2024 02:33:11.608 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+27-02-2024 02:33:11.793 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+27-02-2024 02:33:11.794 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+27-02-2024 02:33:11.795 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 02:34:30.597 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 02:34:32.784 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 02:34:32.786 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+27-02-2024 02:34:41.942 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+27-02-2024 02:34:42.058 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+27-02-2024 02:34:42.060 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+27-02-2024 02:34:42.061 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 02:35:40.267 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 02:35:42.288 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 02:35:42.291 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+27-02-2024 02:35:51.780 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Update booking with valid details
+27-02-2024 02:35:51.918 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+27-02-2024 02:35:51.919 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+27-02-2024 02:35:51.920 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 02:36:37.723 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 02:36:39.745 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 02:36:39.747 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+27-02-2024 02:36:52.164 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+27-02-2024 02:36:52.165 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 02:37:24.240 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 02:37:26.194 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 02:37:26.196 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+27-02-2024 02:37:38.115 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+27-02-2024 02:37:38.116 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 02:38:16.182 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 02:38:18.161 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 02:38:18.163 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+27-02-2024 02:38:36.613 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+27-02-2024 02:38:36.615 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 02:39:23.652 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 02:39:25.668 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 02:39:25.670 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Update booking with valid details
+27-02-2024 02:39:39.860 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Update booking with valid details
+27-02-2024 02:39:39.864 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 04:46:49.175 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 04:46:51.405 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 04:46:51.408 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+27-02-2024 04:47:01.018 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Create a new booking with valid details
+27-02-2024 04:47:01.253 [main] ERROR stepDefinitions.hook.Hooks - {
+    "bookingid": 1569,
+    "booking": {
+        "firstname": "mehmet",
+        "lastname": "aykut",
+        "totalprice": 500,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2023-01-01",
+            "checkout": "2024-01-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}
+27-02-2024 04:47:01.255 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+27-02-2024 04:47:01.257 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 05:03:52.641 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:03:54.657 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:03:54.659 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+27-02-2024 05:04:06.728 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+27-02-2024 05:04:06.730 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 05:04:52.828 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:04:54.812 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:04:54.814 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Validate delete booking functionality with authorization
+27-02-2024 05:05:02.851 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Validate delete booking functionality with authorization
+27-02-2024 05:05:03.043 [main] ERROR stepDefinitions.hook.Hooks - Method Not Allowed
+27-02-2024 05:05:03.044 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Validate delete booking functionality with authorization
+27-02-2024 05:05:03.045 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 05:09:18.449 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:09:20.444 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:09:20.446 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Validate delete booking functionality with authorization
+27-02-2024 05:09:28.414 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Validate delete booking functionality with authorization
+27-02-2024 05:09:28.618 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+27-02-2024 05:09:28.620 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Validate delete booking functionality with authorization
+27-02-2024 05:09:28.621 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 05:10:02.508 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:10:04.507 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:10:04.509 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+27-02-2024 05:10:16.385 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+27-02-2024 05:10:16.386 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 05:11:04.360 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:11:06.443 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:11:06.446 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+27-02-2024 05:11:26.188 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+27-02-2024 05:11:26.189 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 05:11:56.085 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:11:58.173 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:11:58.175 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Validate delete booking functionality with authorization
+27-02-2024 05:12:06.127 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Validate delete booking functionality with authorization
+27-02-2024 05:12:06.404 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+27-02-2024 05:12:06.406 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Validate delete booking functionality with authorization
+27-02-2024 05:12:06.407 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 05:17:13.818 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:17:15.954 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:17:15.956 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Validate delete booking functionality with authorization
+27-02-2024 05:17:23.872 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Validate delete booking functionality with authorization
+27-02-2024 05:17:24.047 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+27-02-2024 05:17:24.049 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Validate delete booking functionality with authorization
+27-02-2024 05:17:24.050 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 05:20:39.309 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:20:41.361 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:20:41.363 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+27-02-2024 05:20:54.194 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+27-02-2024 05:20:54.197 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 05:22:18.114 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:22:20.355 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:22:20.357 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+27-02-2024 05:22:39.902 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+27-02-2024 05:22:39.903 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 05:25:26.235 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:25:28.290 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:25:28.292 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Validate delete booking functionality with authorization
+27-02-2024 05:25:36.512 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Validate delete booking functionality with authorization
+27-02-2024 05:25:36.686 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+27-02-2024 05:25:36.688 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Validate delete booking functionality with authorization
+27-02-2024 05:25:36.689 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 05:26:41.189 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:26:43.494 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:26:43.496 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Validate delete booking functionality with authorization
+27-02-2024 05:31:38.373 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:31:40.597 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:31:40.599 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Successfully create an auth token
+27-02-2024 05:31:55.264 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Successfully create an auth token
+27-02-2024 05:31:55.268 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 05:33:04.245 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:33:06.311 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:33:06.313 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Create a new booking with valid details
+27-02-2024 05:33:25.453 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Create a new booking with valid details
+27-02-2024 05:33:25.455 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+27-02-2024 05:37:33.307 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+27-02-2024 05:37:35.340 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+27-02-2024 05:37:35.342 [main] INFO  stepDefinitions.hook.Hooks - Executing scenario: Validate delete booking functionality with authorization
+27-02-2024 05:37:44.035 [main] ERROR stepDefinitions.hook.Hooks - Scenario failed! Logging response body for failed scenario: Validate delete booking functionality with authorization
+27-02-2024 05:37:44.221 [main] ERROR stepDefinitions.hook.Hooks - Forbidden
+27-02-2024 05:37:44.223 [main] INFO  stepDefinitions.hook.Hooks - Finished scenario: Validate delete booking functionality with authorization
+27-02-2024 05:37:44.224 [main] INFO  stepDefinitions.hook.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
